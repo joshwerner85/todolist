@@ -1,0 +1,221 @@
+@import 'variables';
+
+body {
+  background: $light-grey;
+}
+
+// CONTAINERS
+.main-container {
+    width: 104%;
+    height: 354px;
+    background: #fefefe;
+    display: block;
+    border-top: 2px solid #E4D9D9;
+    border-bottom: 2px solid #E4D9D9;
+}
+ 
+div {
+ 	display: inline-block;
+ 	margin-left:10px;
+ 	margin-top:10px;
+ }
+
+.image-placeholder {
+    height: 25px;
+    width: 25px;
+    border: 2px dotted black;
+    margin: -2px 181px;
+}
+
+.imgstyle {
+    height: 201px;
+    width: 208px;
+    display: inline;
+    margin-top: -30px;
+    margin-left: 0px;
+}
+
+.box {
+    border: 2px solid blue;
+    height: 212px;
+    width: 208px;
+    float: left;
+    margin: 14px 31px;
+} 
+
+// CONTAINERS END
+
+// BUTTONS START
+
+.refresh {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: -2px -2px;
+}
+
+.refresh {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: -2px -2px;
+}
+
+.refresh2 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: 1px -4px;
+}
+
+.refresh3 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: 2px -2px;
+}
+
+.refresh4 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: 2px -4px;
+}	
+
+.refresh5 {
+    width: 40px;
+    height: 40px;
+    border: 2px solid blue;
+    margin: 8px -2px;
+}
+
+.refresh:hover {
+     
+    background:blue;
+}
+
+.refresh2:hover {
+     
+    background:blue;
+}
+
+.refresh3:hover{
+	background:blue;
+}
+
+.refresh4:hover{
+	background:blue;
+}
+
+.refresh5:hover{
+	background:blue;
+}
+
+i.fa.fa-recycle {
+    margin-left: 14px;
+    margin-top: 13px;
+    color: blue;
+}
+
+i.fa.fa-recycle:hover {
+    margin-left: 14px;
+    margin-top: 13px;
+    color: white;
+}
+
+i.fa.fa-heart {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:blue;
+}
+
+i.fa.fa-heart:hover {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:white;
+}
+
+p {
+    margin-left: 9px;
+    margin-top: 12px;
+    color:blue;
+}
+
+p:hover {
+    margin-left: 9px;
+    margin-top: 12px;
+    color:white;
+}
+
+i.fa.fa-square-o {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:blue;
+}
+
+i.fa.fa-square-o:hover {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:white;
+}
+
+i.fa.fa-shopping-cart {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:blue;
+}
+
+i.fa.fa-shopping-cart:hover {
+    margin-left: 14px;
+    margin-top: 13px;
+    color:white;
+}
+
+i.fa.fa-share {
+    border: 2px solid blue;
+    width: 40px;
+    height: 40px;
+    margin-left: -75px;
+    margin-top: 14px;
+    text-align: center;
+    color: white;
+    line-height: 35px;
+}
+
+i.fa.fa-share:hover {
+	background:blue;
+    border: 2px solid blue;
+    width: 40px;
+    height: 40px;
+    margin-left: -75px;
+    margin-top: 14px;
+    text-align: center;
+    color: white;
+    line-height: 35px;
+}
+
+.price {
+    margin-left: 67px;
+    font-weight: 900;
+    color: blue;
+    font-family: arial;
+}
+
+.title {
+    color: blue;
+    font-family: centurygothic;
+    font-size: medium;
+    margin-left:0px;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
